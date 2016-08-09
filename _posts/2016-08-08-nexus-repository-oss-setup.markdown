@@ -11,7 +11,7 @@ category: Tools
 
 ##### 配置
 
-Nexus需要Java，过程略
+Nexus需要Java，过程略    
 [下载](http://www.sonatype.com/download-oss-sonatype)并解压Nexus Repository OSS
 
 修改`conf/nexus.properties`配置文件更改默认端口防止冲突    
