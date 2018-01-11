@@ -9,7 +9,8 @@ paginate: 15
 baseurl: /
 domain_name: 'http://lhc-clover.github.io'
 google_analytics: 'UA-XXXXXXXX-X'
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+future: true
 
 # Details for the RSS feed generator
 url:            'lhc-clover.github.io'
