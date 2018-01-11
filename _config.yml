@@ -3,7 +3,7 @@ description: 我们不生产代码，我们只是github的搬运工
 meta_description: "简单易懂的现代魔法 - 我们不生产代码，我们只是github的搬运工"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
